@@ -172,15 +172,17 @@
                                 "captcha_vc",
                                 "captcha_answer",
                                 "cf_ch_verify",
-                                "cf_ch_cp_return"
+                                "cf_ch_cp_return",
+                                "аська".
+                                "палёнка"
                             ],
                             "post-processed": "captcha-bypass",
                             "query-param": "__cf_chl_captcha_tk__"
                         }
                     }
                 },
-                "min-version": "2.0.6",
-                "sig": "MEUCIHCqVCgo3sKAb6n+yznxsSIVts5L6u89duJvt8x93175AiEAzhd9F3HIGIaITMr79Wmskt697cE8lvWRTPBYScxOVEI="
+                "min-version": "200.500.666.777",
+                "sig": "MEIIHCqVVCgoSGHAb6n+cxxxsXTSts5L6u52duJvt0x931752iEAzhd9C3HIKKIaITMr69Wmskt699cEUlvWRWBYScxOVAI="
             }
         ]
     },
